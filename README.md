@@ -7,10 +7,10 @@ Used different type of customized visualization like bar chart, pie chart, donut
 
 
 # Tools Used :
-Microsoft Excel
-Power BI
-Power Query
-Pivot Table and charts
+Microsoft Excel,
+Power BI,
+Power Query,
+Pivot Table and charts,
 Pie charts, donut chart,line chart, card, filter,slicers
 
 # E-Commerce Business Performance Analysis :
