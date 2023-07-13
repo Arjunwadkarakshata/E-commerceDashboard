@@ -14,11 +14,11 @@ Pivot Table and charts,
 Pie charts, donut chart,line chart, card, filter,slicers
 
 # E-Commerce Business Performance Analysis :
-Sum of profit by per month
-Top 5 Sub categories from which business getting more money
-Sum of quantity by per category like Furniture, Clothing and Electronics
-Sum of quantity by paymentmode like UPI, EMI, COD, Debit card, Credit card
-Top 5 states from which business getting more money
+Sum of profit by per month,
+Top 5 Sub categories from which business getting more money,
+Sum of quantity by per category like Furniture, Clothing and Electronics,
+Sum of quantity by paymentmode like UPI, EMI, COD, Debit card, Credit card,
+Top 5 states from which business getting more money,
 Top 5 regualr Customers from which business getting more money, so owner can give some distcount, offers.
 
 # Power BI Dashboard Visualization :
