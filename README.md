@@ -32,5 +32,3 @@ Pie charts, donut chart,line chart, card, filter,slicers
 
 
 
-![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/517853ef-f9db-47ee-8d1e-9d691cda5e37)
-
