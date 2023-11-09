@@ -14,16 +14,23 @@ Pivot Table and charts,
 Pie charts, donut chart,line chart, card, filter,slicers
 
 # E-Commerce Business Performance Analysis :
-Sum of profit by per month,
-Top 5 Sub categories from which business getting more money,
-Sum of quantity by per category like Furniture, Clothing and Electronics,
-Sum of quantity by paymentmode like UPI, EMI, COD, Debit card, Credit card,
-Top 5 states from which business getting more money,
-Top 5 regualr Customers from which business getting more money, so owner can give some distcount, offers.
+1) Created KPI's to analysis the total amount,profit,quantity sales and total states where store is salling his product
+2) With four bar chart comparing profit by Top 5 states,city,category and sub category
+3) Analysis the mode of payment mostly prefer by customer
+4) No of sales of quantity by category
+5) Comparing profit by month
+
 
 # Power BI Dashboard Visualization :
 
-![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/4f1610a1-49b9-4316-8b4f-5b92a58ee0c6)
+![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/ecfb1144-891c-45a0-b794-535b7b5edbe8)
+
+![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/5d0b19fd-9f9c-461f-b410-74959c6d882b)
+
+![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/5a64a85d-97ff-4a88-a91d-011104e52ef9)
+
+
+
 
 ![image](https://github.com/Arjunwadkarakshata/E-commerceDashboard/assets/138595946/517853ef-f9db-47ee-8d1e-9d691cda5e37)
 
